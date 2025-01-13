@@ -1,0 +1,9 @@
+INFO 2025-01-13 19:20:10,896 autoreload 668 Watching for file changes with StatReloader
+INFO 2025-01-13 19:22:04,050 basehttp 213 "GET / HTTP/1.1" 200 12004
+INFO 2025-01-13 19:22:04,091 basehttp 213 "GET / HTTP/1.1" 200 12004
+INFO 2025-01-13 19:23:36,126 autoreload 266 F:\Django-Test-Web\InterfaceAutoTest\InterfaceAutoTest\settings\base.py changed, reloading.
+INFO 2025-01-13 19:23:36,648 autoreload 668 Watching for file changes with StatReloader
+INFO 2025-01-13 19:23:48,158 autoreload 266 F:\Django-Test-Web\InterfaceAutoTest\InterfaceAutoTest\settings\base.py changed, reloading.
+INFO 2025-01-13 19:23:48,661 autoreload 668 Watching for file changes with StatReloader
+INFO 2025-01-13 19:25:46,963 autoreload 266 F:\Django-Test-Web\InterfaceAutoTest\InterfaceAutoTest\settings\base.py changed, reloading.
+INFO 2025-01-13 19:25:47,460 autoreload 668 Watching for file changes with StatReloader
